@@ -1,0 +1,7 @@
+D:\Cibernética\Alex´s Poyects\LibreriaUnity\LibreriaUnity\bin\Debug\LibreriaUnity.exe.config
+D:\Cibernética\Alex´s Poyects\LibreriaUnity\LibreriaUnity\bin\Debug\LibreriaUnity.exe
+D:\Cibernética\Alex´s Poyects\LibreriaUnity\LibreriaUnity\bin\Debug\LibreriaUnity.pdb
+D:\Cibernética\Alex´s Poyects\LibreriaUnity\LibreriaUnity\obj\Debug\LibreriaUnity.csproj.AssemblyReference.cache
+D:\Cibernética\Alex´s Poyects\LibreriaUnity\LibreriaUnity\obj\Debug\LibreriaUnity.csproj.CoreCompileInputs.cache
+D:\Cibernética\Alex´s Poyects\LibreriaUnity\LibreriaUnity\obj\Debug\LibreriaUnity.exe
+D:\Cibernética\Alex´s Poyects\LibreriaUnity\LibreriaUnity\obj\Debug\LibreriaUnity.pdb
