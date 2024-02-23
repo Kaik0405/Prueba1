@@ -15,6 +15,9 @@ namespace LibreriaUnity
             Console.WriteLine("Hello world");
             Console.WriteLine("Hello world1");
             Console.WriteLine("Hello world2");
+
+            Card C1 = new Card(100,"Monarca de las Sombras","Ser divino",10,"Lider");
+            C1.getCard();
         }
     }
 }
